@@ -114,7 +114,7 @@ chmod +x ./CursorPro
   
 ## 赞助更有动力更新
 
-![image](./screen/afdian-[未认证]阿臻.jpg)
+![image]()
 
 ## 常见问题解决
 
